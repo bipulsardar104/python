@@ -1,0 +1,4 @@
+google-cloud-vision
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
